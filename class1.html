@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>></script>
+    <style>
+    div{
+        height:100px;
+        width: 100px;
+    }   
+    #fadeout{
+            background-color: rgb(192, 109, 151);
+    }
+     #fadein{
+            background-color: rgb(114, 65, 177);
+    }
+    #fadeout
+{
+            background-color: rgb(184, 163, 71);
+     }  
+</style>
+</head>
+<body>
+    <div id="fadeout"></div>
+    <div id="fadein"></div>
+    <div id="fadeto"></div>
+
+    <button id="id1">add</button>
+    <button>remove</button>
+
+    <script>
+        $(document).ready(function(){
+            $('#id1'). click (function(){
+                $('#fadeout').fadeOut(5000)
+                $('#fadein').fadeToggle(2000)
+                $('#fadeto').fadeTo(7000,0.5)
+            })
+        })
+    </script>
+
+</body>
+</html>

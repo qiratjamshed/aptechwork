@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\class9\bin\Debug\net7.0\class9.exe
+C:\Users\asp\Desktop\class9\bin\Debug\net7.0\class9.deps.json
+C:\Users\asp\Desktop\class9\bin\Debug\net7.0\class9.runtimeconfig.json
+C:\Users\asp\Desktop\class9\bin\Debug\net7.0\class9.dll
+C:\Users\asp\Desktop\class9\bin\Debug\net7.0\class9.pdb
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.AssemblyInfo.cs
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.dll
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\refint\class9.dll
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.pdb
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\class9.genruntimeconfig.cache
+C:\Users\asp\Desktop\class9\obj\Debug\net7.0\ref\class9.dll
